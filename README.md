@@ -4,7 +4,7 @@ A Gas City pack that adds temporal S-V-O memory and O(1) context management
 to any agent session via the [Smriti](https://smriti-kaal.vercel.app) FastMCP
 server.
 
-**Registry:** `smriti/beads-memory` on [registry.gascity.com](https://registry.gascity.com)
+**Registry:** `smriti/temporal-memory` on [registry.gascity.com](https://registry.gascity.com)
 
 ---
 

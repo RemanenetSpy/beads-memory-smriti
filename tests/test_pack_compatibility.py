@@ -33,7 +33,7 @@ class PackManifestTests(unittest.TestCase):
 
     def test_pack_name(self) -> None:
         content = _read("pack.toml")
-        self.assertIn('name = "smriti"', content)
+        self.assertIn('name = "smriti/temporal-memory"', content)
 
     def test_gc_import_declared(self) -> None:
         content = _read("pack.toml")
